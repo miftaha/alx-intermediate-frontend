@@ -1,0 +1,7 @@
+# Steps to install SASS:
+
+1. Installed SASS version 3.7.4 using:
+   npm install sass@3.7.4
+
+2. Verified the installation using:
+   sass --version
